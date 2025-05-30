@@ -3,3 +3,5 @@
 2 - Human readable duration format
 
 3 - Matrix Determinant
+
+4 - Sum by Factors
